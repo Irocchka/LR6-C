@@ -1,0 +1,66 @@
+RU, Avan': -21 degrees, clear sky
+EC, El Progreso: 19 degrees, overcast clouds
+IT, Domus de Maria: 21 degrees, overcast clouds
+RU, Avan': -24 degrees, broken clouds
+AU, Biggara: 10 degrees, overcast clouds
+RU, Sakha: -21 degrees, overcast clouds
+RU, Kargasok: -2 degrees, light snow
+US, Key West: 25 degrees, light rain
+CN, Liaoyang: 5 degrees, overcast clouds
+RU, Dikson: -12 degrees, few clouds
+RU, Khelyulya: 8 degrees, overcast clouds
+RU, Vel't: -1 degrees, overcast clouds
+CN, Dabaidi: 20 degrees, clear sky
+BS, Victoria Hill: 28 degrees, clear sky
+US, Hacienda Carmel: 12 degrees, clear sky
+LY, At Taj: 22 degrees, clear sky
+RU, Urusha: -16 degrees, scattered clouds
+US, Breckenridge: -12 degrees, clear sky
+AU, Grassy: 15 degrees, light rain
+CA, Fort Hope: -8 degrees, overcast clouds
+SE, Sjoberg: -6 degrees, broken clouds
+SA, Hai'l Region: 23 degrees, scattered clouds
+PK, Chiniot: 21 degrees, clear sky
+PH, Cabcaben: 26 degrees, light rain
+CN, Baixi: 20 degrees, overcast clouds
+MN, Bornuur: -6 degrees, overcast clouds
+KZ, Shubarkol: -1 degrees, overcast clouds
+RU, Chara: -14 degrees, overcast clouds
+AU, Broome: 26 degrees, clear sky
+RU, Podsosnovo: -2 degrees, overcast clouds
+CA, Sandy Lake: -10 degrees, overcast clouds
+TM, Abadan: 11 degrees, scattered clouds
+GL, Upernavik: -24 degrees, overcast clouds
+BO, San Jose de Chiquitos: 38 degrees, clear sky
+SA, Al Jawf: 20 degrees, scattered clouds
+RU, Isyangulovo: 2 degrees, overcast clouds
+UA, Trypillia: 8 degrees, few clouds
+CA, Fort Providence: -20 degrees, clear sky
+ID, Kapartutin: 29 degrees, overcast clouds
+US, Huntersville: 15 degrees, overcast clouds
+CN, Fengyang Fuchengzhen: 19 degrees, clear sky
+UA, Khmel'nyts'ka Oblast': 10 degrees, overcast clouds
+HT, Gros Morne: 28 degrees, clear sky
+IN, Balurghat: 23 degrees, scattered clouds
+MZ, Aldeia Nacapa: 30 degrees, broken clouds
+KR, Sinan: 17 degrees, clear sky
+FM, Fais Municipality: 29 degrees, overcast clouds
+IR, 'Abbasabad-e Qusheh: 20 degrees, clear sky
+RU, Novocheremshansk: 5 degrees, overcast clouds
+NG, Sofo-Birnin-Gwari: 34 degrees, few clouds
+
+Min temp:
+RU, Avan': -24 degrees, broken clouds
+
+Max temp:
+BO, San Jose de Chiquitos: 38 degrees, clear sky
+
+Average world temperature: 8,78 degrees
+
+Country count: 27
+
+RU, Avan': -21 degrees, clear sky
+
+C:\Users\79526\source\repos\lh6_1\lh6_1\bin\Debug\netcoreapp3.1\lh6_1.exe (процесс 9668) завершил работу с кодом 0.
+Чтобы автоматически закрывать консоль при остановке отладки, включите параметр "Сервис" ->"Параметры" ->"Отладка" -> "Автоматически закрыть консоль при остановке отладки".
+Нажмите любую клавишу, чтобы закрыть это окно…
